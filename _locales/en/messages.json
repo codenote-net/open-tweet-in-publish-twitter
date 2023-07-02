@@ -4,7 +4,7 @@
     "description": "The title of the extension."
   },
   "extensionDescription": {
-    "message": "\"Get Embed Code for Twitter™ Tweet\" is a Google Chrome Extension that instantly generates an embed code by opening the URL of the currently open tab on publish.twitter.com. This allows users to easily share tweets on web pages and blog posts. The usage is very simple: just click on the icon of \"Get Embed Code for Twitter™ Tweet\" displayed next to the address bar of the open web page. The URL of that page will then be automatically sent to publish.twitter.com, and the generated embed code is copied to your clipboard. If you paste this into your website or blog, you can easily embed tweets. By using this extension, you no longer need to frequently switch between the webpage and Twitter, which can significantly save time and effort.",
+    "message": "\"Get Embed Code for Twitter™ Tweet\" Chrome Extension simplifies sharing tweets on blogs by automating embed code generation.",
     "description": "The description of the extension."
   }
 }
