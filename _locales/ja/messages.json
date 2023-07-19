@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Twitter™ ツイートの埋め込みコード取得",
+    "description": "拡張機能のタイトル。"
+  },
+  "extensionDescription": {
+    "message": "「Twitter™ ツイートの埋め込みコード取得」は、Google Chrome拡張機能で、現在開いているタブのURLをpublish.twitter.comに送り、ツイートの埋め込みコードを瞬時に生成します。アイコンをクリックするだけで、生成されたコードがクリップボードにコピーされ、ウェブページやブログに簡単にツイートを共有できます。この拡張機能は、ウェブページとTwitterの間での頻繁な切り替えを減らし、時間と労力を節約します。",
+    "description": "拡張機能の説明。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Get Embed Code for Twitter™ Tweet",
+    "description": "The title of the extension."
+  },
+  "extensionDescription": {
+    "message": "\"Get Embed Code for Twitter™ Tweet\" Chrome Extension simplifies sharing tweets on blogs by automating embed code generation.",
+    "description": "The description of the extension."
+  }
+}
